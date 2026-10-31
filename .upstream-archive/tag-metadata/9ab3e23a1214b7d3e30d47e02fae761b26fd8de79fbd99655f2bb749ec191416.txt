@@ -1,0 +1,6 @@
+Original tag name: nx2-20261031
+Original tag object: 01423a2470ee8a604218c1a6d5a0be6769624078
+Original target commit: 01423a2470ee8a604218c1a6d5a0be6769624078
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
