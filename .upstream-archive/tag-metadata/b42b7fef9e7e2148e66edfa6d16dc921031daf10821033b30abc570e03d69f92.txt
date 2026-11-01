@@ -1,0 +1,6 @@
+Original tag name: nx2-build31-20261101
+Original tag object: badc91ebce6b6cb44eabe67f7aa0dbbc6abd9e46
+Original target commit: badc91ebce6b6cb44eabe67f7aa0dbbc6abd9e46
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
