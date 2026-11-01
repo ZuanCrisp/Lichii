@@ -1,0 +1,6 @@
+Original tag name: nx2-build-25
+Original tag object: 9c34939757436d6e16bd079691fcad0199b379e0
+Original target commit: 9c34939757436d6e16bd079691fcad0199b379e0
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
