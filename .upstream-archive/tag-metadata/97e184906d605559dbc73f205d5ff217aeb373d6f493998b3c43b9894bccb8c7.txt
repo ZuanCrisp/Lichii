@@ -1,0 +1,6 @@
+Original tag name: build-69
+Original tag object: edf916344f08d92517c2ccf03b206b055685645f
+Original target commit: edf916344f08d92517c2ccf03b206b055685645f
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
