@@ -1,0 +1,6 @@
+Original tag name: build-70
+Original tag object: 286117c7e0d89ab0384e896489128fdd88a424f8
+Original target commit: 286117c7e0d89ab0384e896489128fdd88a424f8
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
