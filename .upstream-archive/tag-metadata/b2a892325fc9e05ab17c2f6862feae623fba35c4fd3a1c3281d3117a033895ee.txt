@@ -1,0 +1,6 @@
+Original tag name: build-83
+Original tag object: 5a50f50e0b7ea0cb0e71c4ae8e8e7425c8a3069c
+Original target commit: 5a50f50e0b7ea0cb0e71c4ae8e8e7425c8a3069c
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
