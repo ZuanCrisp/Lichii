@@ -1,0 +1,6 @@
+Original tag name: build-117
+Original tag object: 89440b29a90708c0fefc126b2bd8c7a64a996bdd
+Original target commit: 89440b29a90708c0fefc126b2bd8c7a64a996bdd
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
