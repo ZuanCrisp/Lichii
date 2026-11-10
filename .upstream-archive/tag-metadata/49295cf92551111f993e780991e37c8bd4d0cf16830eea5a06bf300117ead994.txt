@@ -1,0 +1,6 @@
+Original tag name: build-150
+Original tag object: 17baed716da04fd743fbd8f9604bec96eab0a123
+Original target commit: 17baed716da04fd743fbd8f9604bec96eab0a123
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
