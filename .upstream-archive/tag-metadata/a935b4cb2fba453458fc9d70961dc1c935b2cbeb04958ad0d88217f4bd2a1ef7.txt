@@ -1,0 +1,6 @@
+Original tag name: build-228
+Original tag object: be1f4d9c8432eb9e4b5944ff568304f3fd62953a
+Original target commit: be1f4d9c8432eb9e4b5944ff568304f3fd62953a
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
