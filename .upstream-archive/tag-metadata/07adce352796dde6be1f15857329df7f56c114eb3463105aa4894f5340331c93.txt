@@ -1,0 +1,6 @@
+Original tag name: build-316
+Original tag object: 5a66c8959f3831aa54f8182118e1d32bfcb05f16
+Original target commit: 5a66c8959f3831aa54f8182118e1d32bfcb05f16
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
