@@ -1,0 +1,6 @@
+Original tag name: build-341
+Original tag object: 9c9a1dfa56973c26fa1159f323c05e307496e17c
+Original target commit: 9c9a1dfa56973c26fa1159f323c05e307496e17c
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
