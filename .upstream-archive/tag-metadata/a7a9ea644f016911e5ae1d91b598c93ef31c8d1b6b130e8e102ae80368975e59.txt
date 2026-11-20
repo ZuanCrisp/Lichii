@@ -1,0 +1,6 @@
+Original tag name: build-366
+Original tag object: 7e2316d429ba5ebae86d43188f172f1ada41a9e7
+Original target commit: 7e2316d429ba5ebae86d43188f172f1ada41a9e7
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
