@@ -1,0 +1,6 @@
+Original tag name: build-386
+Original tag object: 00f580a94b3e368b1502727e98cdd6ad80b000cf
+Original target commit: 00f580a94b3e368b1502727e98cdd6ad80b000cf
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
