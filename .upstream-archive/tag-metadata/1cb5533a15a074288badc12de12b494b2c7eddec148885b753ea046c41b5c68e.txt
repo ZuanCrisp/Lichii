@@ -1,0 +1,6 @@
+Original tag name: build-385
+Original tag object: d392c624d68ad790b4bc2f9d684395126399246f
+Original target commit: d392c624d68ad790b4bc2f9d684395126399246f
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
