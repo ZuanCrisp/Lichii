@@ -1,0 +1,6 @@
+Original tag name: build-410
+Original tag object: fdc7cdaf8df179775685d0afb57fca178f876a51
+Original target commit: fdc7cdaf8df179775685d0afb57fca178f876a51
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
